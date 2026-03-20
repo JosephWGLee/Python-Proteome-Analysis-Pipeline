@@ -1,16 +1,4 @@
 #!/usr/bin/python
-#
-#
-#  *********************************** READ ME FIRST ********************************
-#  This template script is inciomplete. There are sections missing which you
-#  can add. You can fill them in to get it to complete the task. However,
-#  if you find thats not an easy thing to do, we suggest you make a new python script,
-#  and slowly add bits from this one into it, make sure its working, and then 
-#  add some more. That way you can make step by step progress. Have a good look 
-#  at this code, and make your own pseudocode plan first, before you start coding
-#  your own scripts
-#  **********************************************************************************
-#
 
 import numpy as np
 
